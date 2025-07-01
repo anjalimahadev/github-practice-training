@@ -8,5 +8,6 @@ public class AnjaliDemo {
 	@Test 
 	public void demo() {
 		WebDriver driver=new ChromeDriver();
+		driver.get("");
 	}
 }
