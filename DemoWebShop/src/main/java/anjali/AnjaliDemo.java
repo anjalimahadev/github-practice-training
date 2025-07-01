@@ -9,5 +9,6 @@ public class AnjaliDemo {
 	public void demo() {
 		WebDriver driver=new ChromeDriver();
 		driver.get("");
+		WebDriver driver=new ChromeDriver();
 	}
 }
